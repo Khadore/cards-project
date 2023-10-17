@@ -9,18 +9,6 @@
     border: 20px solid purple;
     margin: 20px;
     width: 200px;
-    height: 200px;
-}
-.box-two {
-    background-color: blue;
-    padding: 20px;
-    border: 20px solid purple;
-    margin: 20px;
-    height: 25%;
-    width: 25%;}
-
-table{
-    width: 100%;
 }
 h1{
     text-align: center;
@@ -51,3 +39,15 @@ td {
 
 }
 fake
+    height: 200px;
+}
+.box-two {
+    background-color: blue;
+    padding: 20px;
+    border: 20px solid purple;
+    margin: 20px;
+    height: 25%;
+    width: 25%;}
+
+table{
+    width: 100%;
